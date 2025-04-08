@@ -1,0 +1,17 @@
+.main {
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 0 auto;
+
+  .checkbox-wrapper {
+    display: flex;
+    gap: 8px;
+  }
+
+  .get-cat-btn {
+    padding: 8px;
+  }
+}
+
